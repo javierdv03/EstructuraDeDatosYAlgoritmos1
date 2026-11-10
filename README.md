@@ -1,6 +1,5 @@
 # Estructura de Datos y Algoritmos I (EDA)
-## Universidad de Almería
-## Grado en Ingeniería Informática
+## Universidad de Almería - Grado en Ingeniería Informática
 
 Repositorio oficial con las prácticas, implementaciones de estructuras de datos y resolución de algoritmos desarrolladas durante la asignatura.
 
@@ -20,8 +19,10 @@ El proyecto está estructurado en diferentes módulos o paquetes orientados al e
 
 ---
 
-## Cómo ejecutar el proyecto
+## Cómo ejecutar y compilar el proyecto
 
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/javierdv03/EstructuraDeDatosYAlgoritmos1.git](https://github.com/javierdv03/EstructuraDeDatosYAlgoritmos1.git)
+
+2. **Compilar cada test de manera independiente o conjunta con funciones que comprueban los algoritmos formados en un entorno local**
